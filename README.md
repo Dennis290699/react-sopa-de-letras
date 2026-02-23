@@ -2,8 +2,6 @@
 
 Una versión moderna y minimalista del clásico juego de Sopa de Letras, construida con **React**, **TypeScript** y **Tailwind CSS**.
 
-![Sopa de Letras Preview](https://picsum.photos/seed/wordsearch/800/400)
-
 ## ✨ Características
 
 -   **Generación Dinámica**: Las palabras se obtienen aleatoriamente de una API externa en cada partida.
