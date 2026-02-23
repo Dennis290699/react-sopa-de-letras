@@ -1,0 +1,5 @@
+{
+  "name": "Sopa de Letras",
+  "description": "Juego de Sopa de Letras con palabras aleatorias de una API, diseño responsivo.",
+  "requestFramePermissions": []
+}
